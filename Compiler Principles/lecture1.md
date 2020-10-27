@@ -1,7 +1,8 @@
 # 第一课
 
-## Principles and Practice of Compiler Construction
+<center> <h3>DATE: 9-15 PPT: </h3></center>
 
+## Principles and Practice of Compiler Construction
 - 有关信息
 - 编译程序概述
 - 教学内容预览
@@ -20,6 +21,12 @@ master/complete a complete 翻译器, 6 steps, use Python + ANTLR4
 4. PA4 作用域与控制语句
 5. PA5 函数和全局变量
 6. PA6 指针和数组
+
+## 考核计划, Grades
+1. 出勤+ 书面作业 10%
+2. 原本实验成绩 20%
+3. 扩展实验 + 期末考试 = 50% + 20%
+
 
 ## 什么时编译程序？
 It is a 翻译程序 (translator) from A 原语言 source language to B 目标语言 target language
@@ -67,3 +74,4 @@ Compiler infrastructure
 - no distinction between translation stage and execution stage
 - execute directly after translating each sentence of the source
 - often used in implementation of virtual machines
+
