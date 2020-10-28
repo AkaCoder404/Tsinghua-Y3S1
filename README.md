@@ -1,6 +1,8 @@
 # Tsinghua Y3S1
 This repository contains all notes and assignments for my first semester of my third year at Tsinghua University. 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashiLi&layout=compact)](https://github.com/AkashiLi/Tsinghua-Y3S1)
+
 
 | Course Name Zh | Course Name En | Teacher | Credits |
 |----------------|--------------- |---------|---------|
